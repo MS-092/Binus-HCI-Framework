@@ -33,7 +33,7 @@ a {
     text-decoration: none;
 }
 
-/* 1 Custom CSS */
+/* custom CSS */
 
 ::-webkit-scrollbar {
     width: 6px;
@@ -136,6 +136,7 @@ p {
     -webkit-text-fill-color: transparent;
 }
 
+/* Header navbar */
 input:hover,
 input:focus,
 textarea:focus,
@@ -212,6 +213,7 @@ button {
 }
 
 
+/*About me Page*/
 .banner_wrapper {
     width: 100%;
     height: auto;
@@ -292,6 +294,8 @@ button {
 }
 
 
+
+/*Portfolio page */
 .portfolio_wrapper .card {
     background-color: var(--bg-dark-blue);
     cursor: pointer;
@@ -305,7 +309,7 @@ button {
 }
 
 
-
+/*Footer */
 .footer_wrapper {
     background-color: var(--bg-dark-blue);
     padding: 20px 0;

@@ -14,7 +14,7 @@
         font-size: 20px;
     }
 
-    /* 2 Navbar */
+    /* Navbar */
     .header-scrolled {
         height: auto;
     }
@@ -45,7 +45,7 @@
 
 @media (max-width: 767px) {
 
-    /* custom css */
+    /* css */
     h1 {
         font-size: 40px;
         line-height: 48px;
@@ -60,7 +60,7 @@
         line-height: 24px;
     }
 
-    /* About */
+    /* About me page*/
     .about_wrapper ul.nav-pills{
         width:100%;
         margin:auto;
