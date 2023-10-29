@@ -153,11 +153,6 @@ button {
     transition: all .2s linear;
 }
 
-.header_wrapper .navbar-brand img {
-    max-width: 120px;
-    height: auto;
-}
-
 .header_wrapper .navbar-toggler {
     border: 0;
     color: var(--gray-color);
